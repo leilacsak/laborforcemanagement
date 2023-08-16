@@ -1,6 +1,6 @@
 # laborforcemanagement
 Assigment - Labor Force Management - PHP 
-Title of the assignment for the subject "Web Application Development II" : Labor Force Management
+Title of the assignment for the subject "Web Application Development II" in the semester of 2022/23: Labor Force Management
 
 Assignment type: Programming task
 
