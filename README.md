@@ -1,3 +1,5 @@
+The project was developed using Visual Studio Code in conjunction with Wampserver, and subsequently, Many weeks later, the entirety of it was uploaded to GitHub!!!
+
 # laborforcemanagement
 Assigment - Labor Force Management - PHP 
 Title of the assignment for the subject "Web Application Development II" in the semester of 2022/23: Labor Force Management
@@ -40,4 +42,4 @@ Assignment description: Labor Force Management ( = munkaero_nyilvantarto)
 
     *Changes must be logged!!!
 
-This project has been developed in Visual Studio Code using Wampserver.
+
